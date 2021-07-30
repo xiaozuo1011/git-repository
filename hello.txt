@@ -4,3 +4,4 @@ hello xiaozuo!
 hello xiaozuo! master_change
 hello xiaozuo! xiaozuo_change 
 xiazuo test2   push_test
+pull_test
