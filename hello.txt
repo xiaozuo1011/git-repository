@@ -6,3 +6,4 @@ hello xiaozuo! xiaozuo_change
 xiazuo test2   push_test
 pull_test
 ssh_pull_test
+ssh_push_test
